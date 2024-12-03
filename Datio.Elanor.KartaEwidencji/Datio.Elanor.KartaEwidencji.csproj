@@ -5,6 +5,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Soneta.KadryPlace.Reports">
+      <Private>false</Private>
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Soneta\enova365 $(SonetaPackageVersion)\Soneta.KadryPlace.Reports.dll</HintPath>
     </Reference>
   </ItemGroup>
