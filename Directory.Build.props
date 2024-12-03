@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SonetaPackageVersion>2406.0.0</SonetaPackageVersion>
+    <SonetaTargetFramework>net8</SonetaTargetFramework>
+
+    <SonetaAddonStartProgram>C:\Program Files (x86)\Soneta\enova365 $(SonetaPackageVersion)\SonetaExplorer.exe</SonetaAddonStartProgram>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    
+    <Version>1.0.0</Version>
+    <IncludeSourceRevisionInInformationalVersion>true</IncludeSourceRevisionInInformationalVersion>
+  </PropertyGroup>
+</Project>
